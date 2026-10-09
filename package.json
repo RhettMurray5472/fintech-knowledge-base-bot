@@ -1,0 +1,7 @@
+{
+  "name": "fintech-knowledge-base-bot",
+  "private": true,
+  "type": "module",
+  "scripts": {"start": "tsx src/knowledge_bot.ts", "test": "tsx src/knowledge_bot.test.ts"},
+  "dependencies": {"zod": "^3.23.8", "tsx": "^4.19.2", "typescript": "^5.6.3"}
+}
